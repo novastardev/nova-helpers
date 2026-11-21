@@ -1,0 +1,13 @@
+# Dependencies — never commit
+node_modules/
+
+# Runtime logs & artifacts
+helper.log
+*.log
+
+# Downloads (yt-dlp output)
+downloads/
+
+# Local runtime data
+yt-cookies.txt
+.env
